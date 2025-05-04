@@ -2,4 +2,4 @@
 
 2. Create Gitlab access token 
 
-![image-1] (./images/access_token.png)
+![image-1](./images/access_token.png)
