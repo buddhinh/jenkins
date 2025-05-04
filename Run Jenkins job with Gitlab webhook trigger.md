@@ -26,13 +26,14 @@ http://jenkins.local:8080/user/admin/configure
 5. Create Jenkins Job 
 
 In SCM, provide Git URL and credentials 
-![image-5](./images/scm.png)
+
+![image-6](./images/scm.png)
 
  
 
 In Build triggers section, provide when to trigger. 
 
-![image-5](./images/build_trigger.png)
+![image-7](./images/build_trigger.png)
 
 6. In Gitlab project, go to settings>webhooks and add new webhook 
 
